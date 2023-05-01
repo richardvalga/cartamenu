@@ -106,11 +106,15 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 tvg-logo="", DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 tvg-logo="", DAZN F1 1080 (FÃ³rmula 1)
-acestream://a11e904c0b74872c1275c9bf556049c4b54eb6b2
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="", DAZN F1 1080 (FÃ³rmula 1)
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-#EXTINF:-1 tvg-logo="", DAZN F1 720 (FÃ³rmula 1)
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+#EXTINF:-1 tvg-logo="", DAZN F1 FHD (FÃ³rmula 1)
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+#EXTINF:-1 tvg-logo="", DAZN F1 ALONSO ONBOARD (FÃ³rmula 1)
+acestream://426b0f68a64fac1f6de71d47a7dfc4260d783014
+#EXTINF:-1 tvg-logo="", DAZN F1TVPRO 1080 (FÃ³rmula 1)
+acestream://0b0280578d8b145562f4f4584c83261a56404843
 #EXTINF:-1 tvg-logo="", EuroSport 1 1080
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="", EuroSport 2 1080
